@@ -1,0 +1,7 @@
+.ActiveLink li {
+  @apply hover:bg-white text-black bg-white   w-[calc(100%)] before:w-[20px] before:h-[20px] before:bg-transparent before:absolute before:right-0 before:-top-[20px] before:rounded-lg    after:w-[20px] after:h-[20px] after:bg-transparent after:absolute after:right-0 after:-bottom-[20px] after:rounded-lg  font-semibold;
+}
+
+.ActiveLinkMobile li {
+  @apply text-black bg-white rounded-md;
+}
