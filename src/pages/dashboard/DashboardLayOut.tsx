@@ -34,7 +34,7 @@ const DashboardLayOut = () => {
                         <img src="/icon.svg" className="w-[40px]" />
                       </span>
                       {/* <h1>{import.meta.env.VITE_APPNAME}</h1> */}
-                      <h1>IoT & MV</h1>
+                      <h1>VisioPark IoT</h1>
                     </>
                   )}
                 </div>

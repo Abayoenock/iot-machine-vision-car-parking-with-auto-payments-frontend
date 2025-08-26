@@ -9,7 +9,8 @@ const AuthPageLayOut = () => {
           <div className=" absolute w-full h-full bg-blue-900/70   backdrop-blur-[1px] flex flex-col  items-center    "></div>
           <div className=" h-fit flex gap-3 items-center mt-[20px] absolute top-16  left-0">
             <h1 className=" text-center text-white/90  font-extrabold text-5xl  leading-[40px] lg:px-12">
-              IoT Machine Vision Lisence Plate Recognition System
+              Intelligent IoT-Based Parking and Billing System with Computer
+              Vision
             </h1>
           </div>
           <img src="/gat.png" className=" w-full h-full" />

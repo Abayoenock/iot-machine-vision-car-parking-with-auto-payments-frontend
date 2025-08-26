@@ -38,7 +38,7 @@ export const NavLinks: {
     navLabel: "Transactions",
     navLink: "/dashboard/Transactions",
     navIcon: <TbTransactionDollar />,
-    privileges: [0, 1], // Only admin can access
+    privileges: [0], // Only admin can access
   },
   {
     navLabel: "Vehicles",
@@ -50,7 +50,7 @@ export const NavLinks: {
     navLabel: "Settings",
     navLink: "/dashboard/settings",
     navIcon: <FaCogs />,
-    privileges: [0, 1], // Only admin can access
+    privileges: [0], // Only admin can access
   },
 
   {

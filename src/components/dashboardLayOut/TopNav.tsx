@@ -13,7 +13,7 @@ const TopNav = () => {
         <span className=" text-2xl">
           <img src="/icon.svg" className="w-[40px]" />
         </span>
-        <h1>IoT & MV SPS</h1>
+        <h1>VisioPark IoT</h1>
       </div>
       <div className=" flex gap-4 pr-3  ">
         <UserTopNav user={userContext?.user} />
